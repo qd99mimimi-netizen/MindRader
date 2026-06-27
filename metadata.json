@@ -1,0 +1,6 @@
+{
+  "name": "MindRadar",
+  "description": "上司と部下の1on1ミーティングにおける言語・聴覚・視覚のマルチモーダルAI解析プラットフォーム。エンゲージメント低下やバーンアウト兆候を早期検知し、自律的にフォローアップを予約します。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
